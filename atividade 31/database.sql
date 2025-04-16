@@ -8,7 +8,7 @@ Create table if not exists users (
 );
 
 INSERT INTO users (username, password) VALUES 
-('vasco', '453'),
-('italo', '434'),
-('ggg', '476'),
-('capudo', '555');
+('ricard', '4232'),
+('nojeira', '2343'),
+('mathues', '435'),
+('rato', '4334');
